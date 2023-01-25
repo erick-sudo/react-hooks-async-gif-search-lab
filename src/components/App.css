@@ -1,0 +1,19 @@
+img {
+    width: 200px;
+}
+
+.gifs {
+    display: flex;
+    flex-wrap: wrap;
+
+    align-items: flex-start;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+*{
+    background-color: rgb(181, 190, 216);
+}
